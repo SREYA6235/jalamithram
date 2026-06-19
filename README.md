@@ -1,4 +1,7 @@
-Jalamithram
+Jalamithram  
+android app(build with java firebase )
+demo link
+https://drive.google.com/file/d/13haBOjOOK8WzVlxm87zwQCkAe5t6TCrz/view?usp=sharing 
 
 Smart water management system for residents to track usage, pay bills, and report leakages in real-time.
 
